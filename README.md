@@ -1,4 +1,4 @@
-Скрипт создан для компьютерного клуба <a href="[legiong.ru](https://legiong.ru/)">legiong.ru</a>
+Скрипт создан для компьютерного клуба [legiong.ru](https://legiong.ru/)
 
 Позволяет автоматически входить в учетную запись Discord.
 
